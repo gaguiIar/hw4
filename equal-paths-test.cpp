@@ -8,7 +8,7 @@ Node* a;
 Node* b;
 Node* c;
 Node* d;
-Node* e;
+Node* e; 
 Node* f;
 
 void setNode(Node* n, int key, Node* left=NULL, Node* right=NULL)
